@@ -1,2 +1,2 @@
 # GieDemo
-联系Git命令
+练习Git命令
