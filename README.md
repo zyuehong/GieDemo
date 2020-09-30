@@ -1,5 +1,5 @@
 # GitDemo
-练习Git命令6
+练习Git命令8
 
 数值型 :byte short int long
 字符型: char
