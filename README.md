@@ -1,4 +1,4 @@
-# GieDemo
+# GitDemo
 练习Git命令
 
 数值型 :byte short int long
