@@ -9,6 +9,11 @@ v3
 浮点型: float double
 布尔型： boolean
 
+代码片段2{
+    public void main(String[]args){
+        System.out.println("测试................ ")    
+    }
+}
 
 代码片段1{
   
