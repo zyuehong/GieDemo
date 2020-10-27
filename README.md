@@ -1,5 +1,5 @@
 # GitDemo
-练习Git命令
+练习Git命令 v2
 学习如何解决冲突
 
 数值型 :byte short int long
